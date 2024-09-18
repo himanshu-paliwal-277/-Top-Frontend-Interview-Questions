@@ -1,4 +1,4 @@
-# 100 Days Of Frontend Interview Questions
+# 500 Frontend Interview Questions
 
 ---
 
